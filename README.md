@@ -1,1 +1,2 @@
-# lisabaudacci.github.io
+# Exercises
+All exercises done in class 
